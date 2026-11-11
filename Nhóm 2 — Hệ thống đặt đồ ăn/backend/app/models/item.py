@@ -2,4 +2,3 @@
 
 Khi làm đề tài, copy file này để tạo bảng của nhóm (vd: Product, Order, Movie...).
 """
-
